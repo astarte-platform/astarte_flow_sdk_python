@@ -1,19 +1,15 @@
 ================
-astarte-flow-sdk
+astarte-flow-sdk-python
 ================
 
-
-Add a short description here!
-
+The Astarte Flow Python SDK simplifies the process of building your Python Astarte Flow container.
 
 Description
 ===========
 
-A longer description of your project goes here...
+This SDK can be used to build an Astarte Flow `container block`_ to process data using the power
+of Python. Documentation and examples for this SDK are coming soon, for more information about
+Astarte Flow you can refer to `its documentation`_
 
-
-Note
-====
-
-This project has been set up using PyScaffold 3.2.3. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
+_container block: https://docs.astarte-platform.org/flow/latest/0111-container.html#content
+_its documentation: https://docs.astarte-platform.org/flow
